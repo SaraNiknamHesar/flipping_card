@@ -1,0 +1,15 @@
+@import "_grid-system.css";
+@import "_reset.css";
+.flipping-card{
+    width: 300px;
+    height: 400px;
+}
+.flipping-card img{
+    width: 100%;
+    height: 100%;
+}
+.flipping-card-inner{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
